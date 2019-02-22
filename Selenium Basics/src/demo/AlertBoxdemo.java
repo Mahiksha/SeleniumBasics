@@ -20,6 +20,7 @@ public class AlertBoxdemo {
 		driver.switchTo().alert().accept();	
 		driver.close();
 		// TODO Auto-generated method stub
+		/*to do*/
 
 	}
 
